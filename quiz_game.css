@@ -1,0 +1,26 @@
+body{
+    background-color: red;
+}
+
+.player1_div,
+.player2_div{
+    background-color: white;
+    width: 70%;
+    border-radius: 20px;
+}
+
+#Player1_input,
+#Player2_input{
+    border-radius: 10px;
+    width: 70%;
+    border-color: lightgray;
+}
+
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
